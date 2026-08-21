@@ -19,9 +19,9 @@
       "versions": [
         {
           "version": "3.7.0",
-          "date": "null",
+          "date": "2026-08-21",
           "size": 13246541,
-          "downloadURL": "https://github.com/Anyi-lab/KikoFlu/releases/download/untagged-8795970fb6f194848df4/KikoFlu-ios-unsigned.ipa",
+          "downloadURL": "https://github.com/Anyi-lab/KikoFlu/releases/download/v3.7.0/KikoFlu-ios-unsigned.ipa",
           "localizedDescription": "# KikoFlu v3.7.0\n\n同步上游 Anyi-lab/KikoFlu 主分支全部更新，并包含此前版本的代理设置与播放列表瀑布流功能。\n\n## 新功能\n- 🌟 **Liquid Glass 液态玻璃 UI 支持**（全新 third_party/real_liquid_glass 插件，含 iOS/macOS 原生实现）\n- 播放列表布局可从详情页切换（瀑布流 / 列表）\n- feed 布局偏好持久化保存\n\n## 修复\n- Android / iOS 音频问题修复\n- iOS 中文/日文等 CJK 文字布局卡顿修复\n- 图片加载修复\n- iOS dismissible dialogs 恢复正常\n- 登录页代理配置（修复先登录后设代理的死锁）\n\n## 架构改进\n- 统一虚拟化 feed 架构\n- 设置子页面行为统一\n\n## 下载说明\n| 平台 | 文件 |\n|---|---|\n| Android (通用) | KikoFlu-android-universe-release.apk |\n| Android (arm64) | KikoFlu-android-arm64-v8a-r"
         },
         {
